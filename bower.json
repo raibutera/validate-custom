@@ -1,0 +1,23 @@
+{
+  "name": "validate-custom",
+  "version": "0.0.1",
+  "authors": [
+    "Rai Butera <rai@rbutera.com>"
+  ],
+  "description": "Validate.JS Custom Validators",
+  "main": "validate-custom.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "validate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

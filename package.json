@@ -1,0 +1,22 @@
+{
+  "name": "validate-custom",
+  "version": "0.0.1",
+  "description": "Validate.JS Custom Validators",
+  "main": "validate-custom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raibutera/validate-custom.git"
+  },
+  "keywords": [
+    "validate"
+  ],
+  "author": "Rai Butera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raibutera/validate-custom/issues"
+  },
+  "homepage": "https://github.com/raibutera/validate-custom"
+}
