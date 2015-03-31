@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/raibutera/validate-custom/issues"
   },
-  "homepage": "https://github.com/raibutera/validate-custom"
+  "homepage": "https://github.com/raibutera/validate-custom",
+  "dependencies": {
+    "bluebird": "^2.9.21",
+    "lodash": "^3.6.0",
+    "moment": "^2.9.0",
+    "validate": "^2.1.6"
+  }
 }
